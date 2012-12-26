@@ -1,4 +1,4 @@
 work-fx
 =======
 
-osx menubar app that plays soundFx
+osx menubar app that plays coworker soundFx.
